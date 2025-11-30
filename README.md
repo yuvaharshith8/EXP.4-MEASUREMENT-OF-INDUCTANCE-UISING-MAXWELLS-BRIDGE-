@@ -1,5 +1,6 @@
 # EXP.4-MEASUREMENT-OF-INDUCTANCE-UISING-MAXWELLS-BRIDGE-
 ## AIM:
+
 Measurement of unknown inductance using a Maxwell’s Bridge
 
 ## PROCEDURE:
@@ -34,7 +35,9 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 ## Circuit Diagram:
 <img width="1205" height="486" alt="image" src="https://github.com/user-attachments/assets/bce94cac-3026-4598-aa57-0df0a5b7dbc1" />
 
+## OUTPUT: 
 
+<img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fa3ea1d5-3230-4b7e-bc73-4ec2e28c65bd" />
 
 ## FORMULA: 
     Find L (Unknown inductance)
@@ -45,4 +48,6 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
     R2 = minimum we will neglect it
 
-  ## Result: 
+  ## Result:
+  
+  Measurement of unknown inductance using a Maxwell’s Bridge completed
